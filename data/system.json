@@ -3,22 +3,22 @@
     "config": {
       "env": "local",
       "name": "ee",
-      "baseDir": "/Users/tipchak/Documents/叶Vue/ele/electron",
-      "HOME": "/Users/tipchak/Documents/叶Vue/ele",
-      "rundir": "/Users/tipchak/Documents/叶Vue/ele/electron/run",
+      "baseDir": "/Users/tipchak/Documents/叶Vue/electron_egg_demo/electron",
+      "HOME": "/Users/tipchak/Documents/叶Vue/electron_egg_demo",
+      "rundir": "/Users/tipchak/Documents/叶Vue/electron_egg_demo/electron/run",
       "dump": {
         "ignore": {}
       },
-      "homeDir": "/Users/tipchak/Documents/叶Vue/ele",
-      "root": "/Users/tipchak/Documents/叶Vue/ele",
+      "homeDir": "/Users/tipchak/Documents/叶Vue/electron_egg_demo",
+      "root": "/Users/tipchak/Documents/叶Vue/electron_egg_demo",
       "appUserDataDir": "/Users/tipchak/Library/Application Support/ee",
       "userHome": "/Users/tipchak",
       "appVersion": "3.10.0",
       "isPackaged": false,
-      "execDir": "/Users/tipchak/Documents/叶Vue/ele",
+      "execDir": "/Users/tipchak/Documents/叶Vue/electron_egg_demo",
       "logger": {
         "type": "application",
-        "dir": "/Users/tipchak/Documents/叶Vue/ele/logs",
+        "dir": "/Users/tipchak/Documents/叶Vue/electron_egg_demo/logs",
         "encoding": "utf8",
         "env": "local",
         "level": "INFO",
@@ -134,7 +134,7 @@
         "enable": false
       },
       "storage": {
-        "dir": "/Users/tipchak/Documents/叶Vue/ele/data"
+        "dir": "/Users/tipchak/Documents/叶Vue/electron_egg_demo/data"
       },
       "addons": {
         "window": {
@@ -190,7 +190,7 @@
         },
         "frame": true,
         "show": false,
-        "icon": "/Users/tipchak/Documents/叶Vue/ele/public/images/logo-32.png"
+        "icon": "/Users/tipchak/Documents/叶Vue/electron_egg_demo/public/images/logo-32.png"
       },
       "remoteUrl": {
         "enable": false,
